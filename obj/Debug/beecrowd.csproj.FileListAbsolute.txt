@@ -1,0 +1,7 @@
+C:\Users\Eduardo\source\repos\beecrowd\beecrowd\bin\Debug\beecrowd.exe.config
+C:\Users\Eduardo\source\repos\beecrowd\beecrowd\bin\Debug\beecrowd.exe
+C:\Users\Eduardo\source\repos\beecrowd\beecrowd\bin\Debug\beecrowd.pdb
+C:\Users\Eduardo\source\repos\beecrowd\beecrowd\obj\Debug\beecrowd.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\beecrowd\beecrowd\obj\Debug\beecrowd.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\beecrowd\beecrowd\obj\Debug\beecrowd.exe
+C:\Users\Eduardo\source\repos\beecrowd\beecrowd\obj\Debug\beecrowd.pdb
