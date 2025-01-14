@@ -9,27 +9,19 @@ namespace beecrowd
     {
         static void Main(string[] args)
         {
-            // Quantidade de valores que serão recebidos
+
+           
             int n = int.Parse(Console.ReadLine());
-            int dentro = 0;
-            int fora = 0;
 
-            // Recebe os valores, após verifica se estão dentro do intervalo e prescreve as quantidades de dentro e fora do intervalo
-            for (int i = 0; i < n; i++)
+            for (int i = 1; i <= n; i++)
             {
-                int valores = int.Parse(Console.ReadLine());
-                if (valores >= 10 && valores <= 20)
-                {
-                    dentro++;
-                }
-                else 
-                {
-                    fora++;
-                }
-            }
+                int quadrado = i * i;
+                int cubo = i * i * i;
 
-            Console.WriteLine(dentro + " in");
-            Console.WriteLine(fora + " out");
+                Console.WriteLine($"{i} {quadrado} {cubo}");
+            }
+           
         }
     }
 }
+
